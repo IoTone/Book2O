@@ -1,5 +1,5 @@
 # Immersive Book 2.0
-## Concept: Dive into Fantasy Books' 3D World! 
+
 This is the **Immersive Book 2.0** project, an Immerse The Bay 2024 team project at Stanford on 11/8-10, 2024.
 
 Original project idea is described [here](https://qiita.com/truedata_iotone/items/e73aa5dc98a9fba46a60#book20---a-rethinking-of-books-in-xr)
@@ -72,4 +72,5 @@ npm serve
 - AR.js prototype: https://ar-js-org.github.io/AR.js-Docs/
 
 ## License
+
 MIT/X
